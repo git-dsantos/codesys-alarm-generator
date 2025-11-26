@@ -491,7 +491,7 @@ def save_changes():
 # GUI SETUP
 # ---------------------------------------------------------------
 root = tk.Tk()
-root.title("CODESYS CSV Editor")
+root.title("CODESYS Alarm Editor")
 
 # Maximize window on startup
 try:
