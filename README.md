@@ -6,5 +6,6 @@ WARNING: This project was close to entirely Vibecoded with little manual input.
 
 Tested OS:
 - Windows 11
+- Arch Linux + Wine
 
 If you just want to run the program and have no interest in the source code download only the dist folder and run the executable.
